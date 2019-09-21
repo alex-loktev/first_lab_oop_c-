@@ -1,0 +1,11 @@
+/home/alex/sharp/bin/Debug/netcoreapp2.2/sharp.deps.json
+/home/alex/sharp/bin/Debug/netcoreapp2.2/sharp.runtimeconfig.json
+/home/alex/sharp/bin/Debug/netcoreapp2.2/sharp.runtimeconfig.dev.json
+/home/alex/sharp/bin/Debug/netcoreapp2.2/sharp.dll
+/home/alex/sharp/bin/Debug/netcoreapp2.2/sharp.pdb
+/home/alex/sharp/obj/Debug/netcoreapp2.2/sharp.csprojAssemblyReference.cache
+/home/alex/sharp/obj/Debug/netcoreapp2.2/sharp.csproj.CoreCompileInputs.cache
+/home/alex/sharp/obj/Debug/netcoreapp2.2/sharp.AssemblyInfoInputs.cache
+/home/alex/sharp/obj/Debug/netcoreapp2.2/sharp.AssemblyInfo.cs
+/home/alex/sharp/obj/Debug/netcoreapp2.2/sharp.dll
+/home/alex/sharp/obj/Debug/netcoreapp2.2/sharp.pdb
